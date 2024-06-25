@@ -11,15 +11,15 @@
 - Hono
 - Drizzle
 - Zod
-- Cloudflare D1
 - Cloudflare Workers
+- Cloudflare D1
 
 ## 初期設定
 
 ### NodeModule をインストール
 
 ```bash
-npm install
+bun install
 ```
 
 ### データベースを作成
