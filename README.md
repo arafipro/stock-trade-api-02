@@ -1,8 +1,8 @@
-# 【Cloudflare Workers】Bun+HonoでREST APIの作成　zodを使ってバリデーションチェック！！
+# 【Cloudflare Workers】Bun+HonoでREST APIを作成②　zodを使ってバリデーションチェック！！
 
 ## YouTube
 
-[!["【Cloudflare Workers】Bun+HonoでREST APIの作成　zodを使ってバリデーションチェック！！"](https://i.ytimg.com/vi/ks2-LLyAD5Y/maxresdefault.jpg)](https://youtu.be/ks2-LLyAD5Y)
+[!["【Cloudflare Workers】Bun+HonoでREST APIを作成②　zodを使ってバリデーションチェック！！"](https://i.ytimg.com/vi/ks2-LLyAD5Y/maxresdefault.jpg)](https://youtu.be/ks2-LLyAD5Y)
 
 ## 技術選定
 
